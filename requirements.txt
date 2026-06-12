@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers==4.46.3
+pillow
+accelerate
+timm
+sentencepiece
+einops
+requests
+huggingface_hub
+safetensors
